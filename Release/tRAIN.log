@@ -1,0 +1,294 @@
+﻿  game.cpp
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(19,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(23,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(60,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(61,148): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(61,114): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(61,84): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(61,58): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\game.cpp(13,53): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\game.cpp(13,41): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GameState.cpp
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\GameState.cpp(16,63): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\GameState.cpp(44,17): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\GameState.cpp(125,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\GameState.cpp(138,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\GameState.cpp(302,23): warning C4018: '<': signed/unsigned mismatch
+  ItemStack.cpp
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\ItemStack.cpp(34,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Material.cpp
+  player.cpp
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(19,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(23,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(60,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(61,148): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(61,114): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(61,84): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(61,58): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\player.cpp(9,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\player.cpp(98,38): warning C4101: 'e': unreferenced local variable
+  source1.cpp
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(19,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(23,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(60,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(61,148): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(61,114): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(61,84): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\MenuState.hpp(61,58): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  world.cpp
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\world.cpp(25,53): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\world.cpp(30,52): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\world.cpp(36,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\world.cpp(36,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\world.cpp(38,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\world.cpp(38,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\world.cpp(40,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ws53922\source\repos\tRAIN\tRAIN\world.cpp(40,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(Transformable.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(Transformable.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(View.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(View.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(Font.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(Font.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(Color.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(Color.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(Text.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(Text.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(Sprite.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(Sprite.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(Transform.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(Transform.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(VertexBuffer.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(VertexBuffer.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(VideoMode.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(VideoMode.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(Mouse.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(Mouse.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(InputImpl.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(InputImpl.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(CursorImpl.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(CursorImpl.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(SensorManager.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(SensorManager.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(Joystick.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(Joystick.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+sfml-system-s-d.lib(Err.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in game.obj
+sfml-system-s-d.lib(Err.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in game.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-window-s-d.lib(VideoMode.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(Text.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(Font.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(Color.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-window-s-d.lib(Joystick.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-window-s-d.lib(Mouse.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-window-s-d.lib(InputImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-graphics-s-d.lib(Font.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-graphics-s-d.lib(Text.cpp.obj) : error LNK2001: unresolved external symbol __imp___calloc_dbg
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-window-s-d.lib(VideoMode.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-graphics-s-d.lib(Text.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-graphics-s-d.lib(Font.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-graphics-s-d.lib(Color.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+C:\Users\ws53922\source\repos\tRAIN\Release\tRAIN.exe : fatal error LNK1120: 3 unresolved externals
